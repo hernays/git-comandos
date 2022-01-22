@@ -1,6 +1,5 @@
 # agregando villanos
 
-- thor
 - la mujer maravilla
 - nene
 
@@ -12,4 +11,4 @@
 
  # agregamos super de super
 
- todo esto son los super
+ todo esto son los super - agregando mas super
