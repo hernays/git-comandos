@@ -1,7 +1,5 @@
 # agregando villanos
 
-- la mujer maravilla
-- nene
 
 
 # lo nuevo que estamos agregando 
