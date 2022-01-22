@@ -15,6 +15,12 @@ Regresa al ultimo commit recuperando los archivos borrados
 
 ```
 
+## git checkout (rama-segundaria) .
+```
+sirve para seleccionar la rama segundaria
+
+```
+
 ## git add (carpeta)/*.(extencion) 
 
 ```
@@ -77,6 +83,28 @@ permite editar el mensaje del commit por si lo escribimos mal
  REGRESA AL COMMIT ANTERIOR ^1,2,3
 
 ```
+
+## merge
+
+```
+
+git merge (rama que se desee agregar a la rama principal)
+
+```
+
+
+## git branch -d (nombre de la rama)
+##   git branch -d (nombre de la rama) -f(forza)
+
+```
+una ves terminado con las ramas segundaria es mejor borrar esas ramas 
+
+```
+
+
+
+
+
 
 
 
