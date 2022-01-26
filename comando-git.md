@@ -93,13 +93,41 @@ git merge (rama que se desee agregar a la rama principal)
 ```
 
 
-## git branch -d (nombre de la rama)
+##  git branch -d (nombre de la rama)
 ##   git branch -d (nombre de la rama) -f(forza)
 
 ```
 una ves terminado con las ramas segundaria es mejor borrar esas ramas 
 
 ```
+
+## git checkout -b (nombre de la rama)
+
+```
+crear una rama y la selecciona
+
+```
+
+
+## git tag (nombre del tag)
+
+## git tag -a v1.0.0 -m 'mensaje'
+
+## git tag -a v0.1.0 -m 'mensaje' (hash)  => ejemplo:c3c512e
+
+le agrega la version al hash indicadogit
+
+
+
+# recuperar todo lo perdido
+
+```
+
+git reflog
+
+```
+
+
 
 
 
